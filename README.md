@@ -1,3 +1,34 @@
+# Confeitaria
+
+Simulação de um sistema administrativo de uma Confeitaria para o vendedor.
+
+
+## Autores
+
+- [@Emanuelle-Machado](https://www.github.com/Emanuelle-Machado)
+
+
+## Funcionalidades
+
+Há o CRUD total das tabelas: 
+Produto, Categoria, Cliente, Endereço, Vendedor, Venda
+- Cada produto possui uma Categoria
+- As vendas informam o cliente, o produto, o Endereço e o vendedor.
+- O cliente possui um Endereço
+
+Possui cadastro e login.
+
+
+## Documentação
+
+[Documentação Sistema SW3.pdf](https://github.com/user-attachments/files/17668882/Documentacao.Sistema.SW3.pdf)
+
+## Stack utilizada
+
+**Front-end:** 
+
+**Back-end:** 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
